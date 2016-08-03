@@ -1,0 +1,13 @@
+{
+  "appname": "Buyer App",
+  "ocscope": "DevCenterImpersonate BuyerAdmin BuyerReader DevCenterWebHookAdmin FullAccess",
+  "clientid": "F3606044-8143-450B-98AF-C34D749DC5FD",
+  "buyerid": "newbuyer",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
